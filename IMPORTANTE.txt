@@ -1,0 +1,11 @@
+** ADVERTENCIA **
+
+Este script se proporciona con fines educativos y para demostrar habilidades técnicas.
+El mal uso de esta herramienta para actividades ilegales o no autorizadas está estrictamente prohibido.
+NO me hago responsable del uso indebido de esta herramienta.
+
+Por favor, utilice esta herramienta de manera ética y en entornos donde esté autorizado a realizar pruebas de penetración y auditorías de seguridad.
+
+El uso responsable y ético es esencial para mantener la integridad y confianza en la comunidad de la seguridad informática.
+
+Este mensaje se muestra para reforzar la importancia del uso adecuado y legal de esta herramienta. Siempre recuerda actuar de manera ética y respetar las leyes y regulaciones locales.
